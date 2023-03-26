@@ -1,0 +1,11 @@
+/home/umuts/dandelionproject/target/ink/release/deps/cargo_metadata-4b7eb4f2329b86b8.rmeta: /home/umuts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/lib.rs /home/umuts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/dependency.rs /home/umuts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/diagnostic.rs /home/umuts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/errors.rs /home/umuts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/messages.rs
+
+/home/umuts/dandelionproject/target/ink/release/deps/libcargo_metadata-4b7eb4f2329b86b8.rlib: /home/umuts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/lib.rs /home/umuts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/dependency.rs /home/umuts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/diagnostic.rs /home/umuts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/errors.rs /home/umuts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/messages.rs
+
+/home/umuts/dandelionproject/target/ink/release/deps/cargo_metadata-4b7eb4f2329b86b8.d: /home/umuts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/lib.rs /home/umuts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/dependency.rs /home/umuts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/diagnostic.rs /home/umuts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/errors.rs /home/umuts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/messages.rs
+
+/home/umuts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/lib.rs:
+/home/umuts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/dependency.rs:
+/home/umuts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/diagnostic.rs:
+/home/umuts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/errors.rs:
+/home/umuts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.13.1/src/messages.rs:

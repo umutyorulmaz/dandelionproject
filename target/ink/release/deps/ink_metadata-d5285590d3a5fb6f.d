@@ -1,0 +1,11 @@
+/home/umuts/dandelionproject/target/ink/release/deps/ink_metadata-d5285590d3a5fb6f.rmeta: /home/umuts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/lib.rs /home/umuts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/layout/mod.rs /home/umuts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/layout/validate.rs /home/umuts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/specs.rs /home/umuts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/utils.rs
+
+/home/umuts/dandelionproject/target/ink/release/deps/libink_metadata-d5285590d3a5fb6f.rlib: /home/umuts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/lib.rs /home/umuts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/layout/mod.rs /home/umuts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/layout/validate.rs /home/umuts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/specs.rs /home/umuts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/utils.rs
+
+/home/umuts/dandelionproject/target/ink/release/deps/ink_metadata-d5285590d3a5fb6f.d: /home/umuts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/lib.rs /home/umuts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/layout/mod.rs /home/umuts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/layout/validate.rs /home/umuts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/specs.rs /home/umuts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/utils.rs
+
+/home/umuts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/lib.rs:
+/home/umuts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/layout/mod.rs:
+/home/umuts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/layout/validate.rs:
+/home/umuts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/specs.rs:
+/home/umuts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/utils.rs:
