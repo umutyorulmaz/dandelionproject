@@ -7,6 +7,7 @@
 PROBLEM STATEMENT: Currently ticketting for travel and events such as; concerts, sports, gatherings, is handled by a central authority which is prone to hacks and security issues. The recent happening in USA, FAA (federal aviation administration) system outage caused thousands of flight cancellations on 11th of January 2023 across US, showed us the importance of the decentralization.
 
 GOALS: There are two 2 goals of the project:
+
 1- To assure the security of sensitive data:
 When consumers buy a ticket the issuer collects all the consumer information like; credit card and ID details. In case of a hack or malicious issuer can steal this data. By issueing tickets as a NFT, consumers does not need to provide all their sensitive data.
 
